@@ -3,7 +3,7 @@
 import pandas as pd
 import re
 
-## Import io for its StringIO class which allows us to create an in-memort text stream:
+## Import io for its StringIO class which allows us to create an in-memory text stream:
 import io
 
 ## We are given the following data:
